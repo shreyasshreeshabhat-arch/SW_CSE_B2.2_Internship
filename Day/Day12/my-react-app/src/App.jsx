@@ -1,6 +1,6 @@
-import { Welcome } from "./P1.jsx";
-import Greet from "./P2.jsx";
-import { MyMovies } from "./P3.jsx";
+import { Welcome } from "./components/P1.jsx";
+import Greet from "./components/P2.jsx";
+import { MyMovies } from "./components/P3.jsx";
 function App() {
   return (
     <div>
